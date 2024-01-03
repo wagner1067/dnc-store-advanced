@@ -1,8 +1,8 @@
-.card-produto {
-    display: grid;
-    
+.card-produto:hover{
+    box-shadow: 20px 20px;
 }
 
-.card-produto:hover {
-    box-shadow: 20px 20px;
+.card-produto-destaque{
+    box-shadow: 50px 40px;
+
 }
